@@ -4,5 +4,4 @@ public interface IModeration {
 
 	IUser getUser();
 	IArticle getArticle();
-	ISignalement getSignalement();
 }
