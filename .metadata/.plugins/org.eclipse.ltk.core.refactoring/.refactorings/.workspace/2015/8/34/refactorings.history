@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;xikiMNV_moderation&apos; to &apos;WikiMNV_moderation&apos;&#x0D;&#x0A;- Original element: &apos;xikiMNV_moderation&apos;&#x0D;&#x0A;- Renamed element: &apos;xikiMNV_moderation&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;xikiMNV_moderation&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=xikiMNV_moderation" name="WikiMNV_moderation" references="true" stamp="1439823003814" version="1.0"/>
+</session>
