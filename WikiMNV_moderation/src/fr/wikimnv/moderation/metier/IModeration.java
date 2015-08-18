@@ -1,8 +1,0 @@
-package fr.wikimnv.moderation.metier;
-
-public interface IModeration {
-
-	IUser getUser();
-	IArticle getArticle();
-	ISignalement getSignalement();
-}
