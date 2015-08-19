@@ -9,4 +9,5 @@ public interface IModeration {
 	IGUser getGUser() throws MNVException;
 	IGCommentaire getGCommentaire() throws MNVException;
 	IGSignalement getGSignalement() throws MNVException;
+	//pffffffffffffffffffffffffffffff
 }
