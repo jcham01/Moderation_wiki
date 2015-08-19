@@ -1,5 +1,4 @@
 *.log
-*.xml
 .metadata/
 .project
 .settings
