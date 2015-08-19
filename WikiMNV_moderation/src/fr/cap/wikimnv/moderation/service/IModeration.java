@@ -1,4 +1,4 @@
-package fr.cap.wikimnv.service.moderation;
+package fr.cap.wikimnv.moderation.service;
 
 import fr.cap.wikimnv.service.global.IGCommentaire;
 import fr.cap.wikimnv.service.global.IGUser;

@@ -1,2 +1,4 @@
 /bin/
-.metadata/
+.project
+.metadata
+.settings
