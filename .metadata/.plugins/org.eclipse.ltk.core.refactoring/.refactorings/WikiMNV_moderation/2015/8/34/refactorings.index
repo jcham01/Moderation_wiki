@@ -1,1 +1,17 @@
 1439823584101	Delete element
+1439891665108	Rename type 'IArticle'
+1439892270127	Rename package 'fr.wikimnv.moderation.metier'
+1439898406600	Rename package 'fr.cap.wikimnv.moderation'
+1439898464632	Rename type 'IUser'
+1439899190841	Rename type 'ISignalement'
+1439899202166	Rename type 'ICommentaire'
+1439910276489	Delete element
+1439910817936	Delete element
+1439973534942	Delete element
+1439973703094	Move compilation unit
+1439973797357	Move compilation unit
+1439974098451	Delete element
+1439975764449	Delete element
+1439978033110	Delete element
+1439979394179	Rename package 'fr.cap.wikimnv.service.moderation'
+1439979413878	Move compilation units
