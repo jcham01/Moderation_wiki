@@ -7,17 +7,16 @@ import fr.cap.wikimnv.moderation.pojo.Signalement;
 
 public class GSignalementImpl extends CrudImpl implements IGSignalement {
 
-	IDAOGenric dao;
-	
-	public GSignalementImpl(IDAOGenric dao) {
-		this.dao = dao;
+
+	public GSignalementImpl() {
+
 	}
 	
 	
-	private void changerEtat(EtatSignalement etat, Object id) {
-		Signalement sig = (Signalement)dao.get(id);
+	private void changerEtat(EtatSignalement etat, Object key) {
+		Signalement sig = (Signalement) lire(key);
 		sig.setEtat(etat);
-		dao.saveOrUpdate(sig);		
+		sauver(sig);		
 	}
 
 	@Override
