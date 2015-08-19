@@ -1,6 +1,6 @@
 package fr.cap.wikimnv.service.moderation;
 
-import fr.cap.wikimnv.domaine.pojo.EtatSignalement;
+import fr.cap.wikimnv.domain.pojo.EtatSignalement;
 import fr.cap.wikimnv.service.global.ICRUD;
 
 public interface IGSignalement extends ICRUD {
